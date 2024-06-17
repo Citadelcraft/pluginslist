@@ -1,1 +1,8 @@
-[{}]
+[
+    {
+        "url": "https://songoda.com/api/product/",
+        "icon_url": "https://songoda.com/api/image/",
+        "full_list": "https://songoda.com/api/products/"
+    }
+    
+]
